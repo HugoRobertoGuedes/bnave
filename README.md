@@ -28,5 +28,5 @@ If you want to modify via Qt Design the file is located in the **UI** folder
 
 ### Screenshots
 
-![Screen 01](../../Git/bnave/images/scree_01.png)
-![Screen 02](../../Git/bnave/images/scree_02.png)
+![Screen 01](https://github.com/HugoRobertoGuedes/bnave/blob/master/images/scree_01.png)
+![Screen 02](https://github.com/HugoRobertoGuedes/bnave/blob/master/images/scree_02.png)
